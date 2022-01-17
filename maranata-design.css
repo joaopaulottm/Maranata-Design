@@ -1,7 +1,16 @@
-
+/*
+    Configurando a cor de fundo padrão
+*/
 body{
     background-color: #eef;
 }
+
+/*
+    Configurando os titulos.
+    Os titulos do framework Maranata Design
+    são mais grandes do que o normal para 
+    facilitar a leitura.
+*/
 h1, h2, h3, h4, h5, h6{
     border-bottom: 3px solid #555;
     max-width: 90%;
@@ -25,6 +34,9 @@ h5{
 h6{
     font-size: 30px;
 }
+/*
+    Configurando os paragrafos.
+*/
 p{
     font-size: 25px; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;

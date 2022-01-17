@@ -118,6 +118,12 @@ p{
 .fundo-verde{
     background-color: green;
 }
+.fundo-verde-forte{
+    background-color: darkgreen;
+}
+.fundo-verde-fraco{
+    background-color: lightgreen;
+}
 /*
     18 cores adicionadas.
     laranja e suas variações.
@@ -125,11 +131,40 @@ p{
 .fundo-laranja{
     background-color: orange;
 }
+.fundo-laranja-forte{
+    background-color: darkorange;
+}
+.fundo-laranja-fraco{
+    background-color: lightsalmon;
+}
 /*
     21 cores adicionadas.
-    roxo e suas variações.
+    roxo e rosa.
 */
 .fundo-roxo{
     background-color: purple;
+}
+.fundo-roxo-forte{
+    background-color: lightpink;
+}
+/*
+    23 cores adicionadas
+    Agora vamos começar as cores de  textos
+    Os textos não precisar ter variações.
+
+    EM CONSTRUÇÃO...
+*/
+.texto-preto{
+    color: black;
+}
+/*
+    Agora vamos começar 
+    a criar classes de tamanho fixo
+    começando com quadrado de 100 pixels 
+    cada lado.
+*/
+.quadrado-100{
+    width: 100px;
+    height: 100px;
 }
 

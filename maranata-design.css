@@ -55,6 +55,7 @@ p{
     background-color: #555;
 }
 /*
+    3 cores adicionadas
     Branco e suas variações
 */
 .fundo-branco{
@@ -67,6 +68,7 @@ p{
     background-color: #aaa;
 }
 /*
+    6 cores adicionadas
     Cores Primarias e suas variações
     Começando com o vermelho
 */
@@ -80,6 +82,7 @@ p{
     background-color: #c88;
 }
 /*
+    9 cores adicionadas
     Amarelo e suas variações
 */
 .fundo-amarelo{
@@ -92,6 +95,7 @@ p{
     background-color: lightyellow;
 }
 /*
+    12 cores adicionadas
     Azul e suas variações
 */
 .fundo-azul{
@@ -104,15 +108,24 @@ p{
     background-color: lightblue;
 }
 /*
+    15 cores adicionadas.
     Cores segundarias
     começando com o verde.
 */
 .fundo-verde{
     background-color: green;
 }
+/*
+    18 cores adicionadas.
+    laranja e suas variações.
+*/
 .fundo-laranja{
     background-color: orange;
 }
+/*
+    21 cores adicionadas.
+    roxo e suas variações.
+*/
 .fundo-roxo{
     background-color: purple;
 }

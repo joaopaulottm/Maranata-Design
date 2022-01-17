@@ -2,7 +2,10 @@
     Configurando a cor de fundo padrão
 */
 body{
-    background-color: #eef;
+    background-color: #ddd;
+    /*
+    background-image: url("folhas.jpg");
+    */
 }
 
 /*

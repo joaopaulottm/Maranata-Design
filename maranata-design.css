@@ -41,3 +41,79 @@ p{
     font-size: 25px; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/*
+    Classes responsaveis por as cores de fundo.
+    começando com o preto e o branco e suas variações.
+*/
+.fundo-preto{
+    background-color: black;
+}
+.fundo-marron{
+    background-color: #733;
+}
+.fundo-grafite{
+    background-color: #555;
+}
+/*
+    Branco e suas variações
+*/
+.fundo-branco{
+    background-color: #fff;
+}
+.fundo-cinza{
+    background-color: #ccc;
+}
+.fundo-cinza-escuro{
+    background-color: #aaa;
+}
+/*
+    Cores Primarias e suas variações
+    Começando com o vermelho
+*/
+.fundo-vermelho{
+    background-color: red;
+}
+.fundo-rosa{
+    background-color: #faa;
+}
+.fundo-rosa-forte{
+    background-color: #c88;
+}
+/*
+    Amarelo e suas variações
+*/
+.fundo-amarelo{
+    background-color: yellow;
+}
+.fundo-amarelo-forte{
+    background-color: #cc0;
+}
+.fundo-amarelo-fraco{
+    background-color: lightyellow;
+}
+/*
+    Azul e suas variações
+*/
+.fundo-azul{
+    background-color: blue;
+}
+.fundo-azul-forte{
+    background-color: darkblue;
+}
+.fundo-azul-fraco{
+    background-color: lightblue;
+}
+/*
+    Cores segundarias
+    começando com o verde.
+*/
+.fundo-verde{
+    background-color: green;
+}
+.fundo-laranja{
+    background-color: orange;
+}
+.fundo-roxo{
+    background-color: purple;
+}
+

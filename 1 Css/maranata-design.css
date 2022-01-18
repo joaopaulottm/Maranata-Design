@@ -456,6 +456,26 @@ quadrado-600{
     border-width: 5px;
     border-color: black;
 }
+/*
+    Criando classes de preencimentos.
+    Preencimentos são muito importantes
+    para um layout bonito.
+*/
+.preencimento-10{
+    padding: 10px;
+}
+.preencimento-20{
+    padding: 20px;
+}
+.preencimento-30{
+    padding: 30px;
+}
+.preencimento-40{
+    padding: 40px;
+}
+.preencimento-50{
+    padding: 50px;
+}
 
 
 

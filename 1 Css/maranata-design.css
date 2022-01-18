@@ -461,97 +461,55 @@ quadrado-600{
     cortonos no css, começando com
     os cortonos solidos.
 */
-.borda-solida-1{
-    border-style: solid;
-    border-width: 1px;
-    border-color: black;
+.contorno-solido-1{
+    outline-style: solid;
+    outline-width: 1px;
+    outline-color: black;
 }
-.borda-solida-2{
-    border-style: solid;
-    border-width: 2px;
-    border-color: black;
+.contorno-solido-2{
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: black;
 }
-.borda-solida-3{
-    border-style: solid;
-    border-width: 3px;
-    border-color: black;
+.contorno-solido-3{
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: black;
 }
-.borda-solida-4{
-    border-style: solid;
-    border-width: 4px;
-    border-color: black;
+.contorno-solido-4{
+    outline-style: solid;
+    outline-width: 4px;
+    outline-color: black;
 }
-.borda-solida-5{
-    border-style: solid;
-    border-width: 5px;
-    border-color: black;
+.contorno-solido-5{
+    outline-style: solid;
+    outline-width: 5px;
+    outline-color: black;
 }
-/*
-    As bordas solidas são muito boa
-    para efeitos legais com alguns 
-    elementos por isso eu vou fazer 
-    alguma variação delas.
-    Começando com cores RGB
-*/
-.borda-esquerda-vermelho{
-    border-left: #f00 solid 5px;
-}
-.borda-esquerda-verde{
-    border-left: #0f0 solid 5px;
-}
-.borda-esquerda-azul{
-    border-left: #00f solid 5px;
-}
-/*
-    Misturas das cores RGB
-*/
-.borda-esquerda-amarelo{
-    border-left: #ff0 solid 5px;
-}
-.borda-esquerda-rosa{
-    border-left: #faa solid 5px;
-}
-.borda-esquerda-roxo{
-    border-left: #f0f solid 5px;
-}
-.borda-esquerda-branco{
-    border-left: #fff solid 5px;
-}
-.borda-esquerda-preto{
-    border-left: #000 solid 5px;
-}
-.borda-esquerda-grafite{
-    border-left: #555 solid 5px;
-}
-/*
-    So vou adicionar bordas esquerdas
-    porque eu acho mais util para 
-    estiliza algum conteudo.
-*/
 /*
     Começando com as linhas dublas.
 */
-.contorno-dubla-1{
+.contorno-dublo-1{
     outline-style: double;
     outline-width: 1px;
     outline-color: black;
 }
-.contorno-dubla-2{
+.contorno-dublo-2{
     outline-style: double;
     outline-width: 2px;
     outline-color: black;
 }
-.contorno-dubla-3{
+.contorno-dublo-3{
     outline-style: double;
     outline-width: 3px;
     outline-color: black;
 }
-.contorno-dubla-4{
+.contorno-dublo-4{
     outline-style: double;
     outline-width: 4px;
     outline-color: black;
 }
-.contorno-dubla-5{
+.contorno-dublo-5{
     outline-style: double;
     outline-width: 5px;
     outline-color: black;
@@ -559,27 +517,27 @@ quadrado-600{
 /*
     Começando com as linhas pontilhadas.
 */
-.contorno-pontilhada-1{
+.contorno-pontilhado-1{
     outline-style: dotted;
     outline-width: 1px;
     outline-color: black;
 }
-.contorno-pontilhada-2{
+.contorno-pontilhado-2{
     outline-style: dotted;
     outline-width: 2px;
     outline-color: black;
 }
-.contorno-pontilhada-3{
+.contorno-pontilhado-3{
     outline-style: dotted;
     outline-width: 3px;
     outline-color: black;
 }
-.contorno-pontilhada-4{
+.contorno-pontilhado-4{
     outline-style: dotted;
     outline-width: 4px;
     outline-color: black;
 }
-.contorno-pontilhada-5{
+.contorno-pontilhado-5{
     outline-style: dotted;
     outline-width: 5px;
     outline-color: black;
@@ -605,7 +563,9 @@ quadrado-600{
     padding: 50px;
 }
 /*
-
+    Agora vou começar a criar classes de 
+    estilos de textos para os textos ficarem
+    com muito estilos.
 */
 
 

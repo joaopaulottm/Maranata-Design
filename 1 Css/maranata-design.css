@@ -152,13 +152,18 @@ p{
     Agora vamos começar as cores de  textos
     Os textos não precisar ter variações.
 
-    EM CONSTRUÇÃO...
 */
 .texto-preto{
     color: black;
 }
-.texto-white{
+.texto-grafite{
+    color: #555;
+}
+.texto-branco{
     color: white;
+}
+.texto-cinza{
+    color: gray;
 }
 /*
     Cores Primarias
@@ -183,6 +188,9 @@ p{
 }
 .texto-laranja{
     color: orange;
+}
+.texto-rosa{
+    color:hotpink;
 }
 /*
     Agora vamos começar 

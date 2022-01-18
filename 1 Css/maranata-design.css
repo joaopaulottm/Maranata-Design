@@ -574,7 +574,135 @@ quadrado-600{
     Agora vou começar a criar classes de 
     estilos de textos para os textos ficarem
     com muito estilos.
+
+    Começando com os alinhamentos dos
+    textos
 */
+.textos-a-esquerda{
+    text-align: left;
+}
+.textos-a-direita{
+    text-align: right;
+}
+.textos-justificado{
+    text-align: justify;
+}
+.textos-ao-centro{
+    text-align: center;
+}
+/*
+    Agora vamos criar uma classe
+    da direçao do texto.
+*/
+.textos-da-direita-para-esquerda {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+  }
+/*
+    Alinhamento Vertical
+*/
+.emcima{
+    vertical-align: top;
+}
+.embaixo{
+    vertical-align: bottom;
+}
+/*
+    Decoração de textos
+        1.O overline é por cima do texto
+        2.O line-through é riscando o texto
+        3.0 underline é para sublinhar o texto
+            (usado muito em links)
+*/
+.linha-por-cima{
+    text-decoration: overline;
+}
+.linha-no-texto{
+    text-decoration: line-through;
+}
+.linha-abaixo{
+    text-decoration: underline;
+}
+/*
+    Agora vamos começar ao criar
+    classes de textos tranformes
+    a propriedade transforme serve
+    para transforma os textos em maiúsculas
+    ou minusculas ou começar com uma letra maiúscula
+*/
+.maiusculas {
+    text-transform: uppercase;
+}
+.minusculas {
+    text-transform: lowercase;
+}
+  .primeira-maiuscula {
+    text-transform: capitalize;
+}
+/*
+    Começando sobre a indentação do 
+    texto
+*/
+.indenta-10{
+    text-indent: 10px;
+}
+.indenta-20{
+    text-indent: 20px;
+}
+.indenta-30{
+    text-indent: 30px;
+}
+.indenta-40{
+    text-indent: 40px;
+}
+.indenta-50{
+    text-indent: 50px;
+}
+/*
+    Começando sobre espaço nos
+    textos.
+
+    Começando sobre os epaços
+    entre as letras
+*/
+.texto-espaco-5 {
+    letter-spacing: 5px;
+}
+.texto-espaco-4 {
+    letter-spacing: 4px;
+}
+.texto-espaco-3 {
+    letter-spacing: 3px;
+}
+.texto-espaco-2 {
+    letter-spacing: 2px;
+}
+.texto-espaco-1 {
+    letter-spacing: 1px;
+}
+/*
+    Espaço entre as letras negativos
+*/
+.texto-espaco-menos-5 {
+    letter-spacing: -5px;
+}
+.texto-espaco-menos-4 {
+    letter-spacing: -4px;
+}
+.texto-espaco-menos-3 {
+    letter-spacing: -3px;
+}
+.texto-espaco-menos-2 {
+    letter-spacing: -2px;
+}
+.texto-espaco-menos-1 {
+    letter-spacing: -1px;
+}
+/*
+    
+*/
+
+
 
 
 

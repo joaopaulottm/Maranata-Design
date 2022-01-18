@@ -699,8 +699,129 @@ quadrado-600{
     letter-spacing: -1px;
 }
 /*
-    
+    Trabalhando com a altura da linha
 */
+.altura-da-linha-pequena {
+    line-height: 0.8;
+}
+.altura-da-linha-media {
+    line-height: 1.0;
+}
+.altura-da-linha-grande {
+    line-height: 2.0;
+}
+/*
+    Trabalhando com espaço entre as
+    palavras.
+*/
+.palavra-espaco-10 {
+    word-spacing: 10px;
+}  
+.palavra-espaco-15 {
+    word-spacing: 15px;
+}  
+.palavra-espaco-20 {
+    word-spacing: 20px;
+}  
+.palavra-espaco-25 {
+    word-spacing: 25px;
+}  
+/*
+    Agora com valores negativos
+*/
+.palavra-espaco-menos-2 {
+    word-spacing: -2px;
+}
+.palavra-espaco-menos-3 {
+    word-spacing: -3px;
+}
+.palavra-espaco-menos-5 {
+    word-spacing: -5px;
+}
+/*
+    Agora vamos trabalhar
+    com classes que tratam os espaços 
+    em branco
+
+    nowrap significa que o texto não
+    vai quebrar
+*/
+.espaco-branco-nao-quebra{
+    white-space: nowrap;
+}
+/*
+    É a configuração normal
+*/
+.espaco-branco{
+    white-space: normal;
+}
+/*
+    Começando a trabalhar com sobra de 
+    textos
+*/
+.sombra-texto-1 {
+    text-shadow: 1px 1px;
+}
+.sombra-texto-2 {
+    text-shadow: 2px 2px;
+}
+.sombra-texto-3 {
+    text-shadow: 3px 3px;
+}
+.sombra-texto-4 {
+    text-shadow: 4px 4px;
+}
+.sombra-texto-5 {
+    text-shadow: 5px 5px;
+}
+/*
+    Agora vou trabalhar 
+    com sobras com as 
+    cores RGB
+
+    Começando com o vermelho
+*/
+.sombra-texto-1-vermelho {
+    text-shadow: 1px 1px red;
+}
+.sombra-texto-2-vermelho {
+    text-shadow: 2px 2px red;
+}
+.sombra-texto-3-vermelho {
+    text-shadow: 3px 3px red;
+}
+.sombra-texto-4-vermelho {
+    text-shadow: 4px 4px red;
+}
+.sombra-texto-5-vermelho {
+    text-shadow: 5px 5px red;
+}
+/*
+    Agora Iniciando com o verde
+*/
+.sombra-texto-1-verde {
+    text-shadow: 1px 1px green;
+}
+.sombra-texto-2-verde {
+    text-shadow: 2px 2px green;
+}
+.sombra-texto-3-verde {
+    text-shadow: 3px 3px green;
+}
+.sombra-texto-4-verde {
+    text-shadow: 4px 4px green;
+}
+.sombra-texto-5-verde {
+    text-shadow: 5px 5px green;
+}
+/*
+    Agora eu vou começar a trabalhar
+    com classes de fontes.
+    Graças a Deus tem muitas opções
+    por padrão.
+*/
+
+
 
 
 

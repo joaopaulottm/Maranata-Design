@@ -331,8 +331,132 @@ quadrado-600{
 }
 /*
     Começando agora com as classes de bordas
-    começando com as linhas retas.
+    começando com as linhas solidas.
 */
+.borda-solida-1{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+.borda-solida-2{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+.borda-solida-3{
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+}
+.borda-solida-4{
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+}
+.borda-solida-5{
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+}
+/*
+    As bordas solidas são muito boa
+    para efeitos legais com alguns 
+    elementos por isso eu vou fazer 
+    alguma variação delas.
+    Começando com cores RGB
+*/
+.borda-esquerda-vermelho{
+    border-left: #f00 solid 5px;
+}
+.borda-esquerda-verde{
+    border-left: #0f0 solid 5px;
+}
+.borda-esquerda-azul{
+    border-left: #00f solid 5px;
+}
+/*
+    Misturas das cores RGB
+*/
+.borda-esquerda-amarelo{
+    border-left: #ff0 solid 5px;
+}
+.borda-esquerda-rosa{
+    border-left: #faa solid 5px;
+}
+.borda-esquerda-roxo{
+    border-left: #f0f solid 5px;
+}
+.borda-esquerda-branco{
+    border-left: #fff solid 5px;
+}
+.borda-esquerda-preto{
+    border-left: #000 solid 5px;
+}
+.borda-esquerda-grafite{
+    border-left: #555 solid 5px;
+}
+/*
+    So vou adicionar bordas esquerdas
+    porque eu acho mais util para 
+    estiliza algum conteudo.
+*/
+/*
+    Começando com as linhas dublas.
+*/
+.borda-dubla-1{
+    border-style: double;
+    border-width: 1px;
+    border-color: black;
+}
+.borda-dubla-2{
+    border-style: double;
+    border-width: 2px;
+    border-color: black;
+}
+.borda-dubla-3{
+    border-style: double;
+    border-width: 3px;
+    border-color: black;
+}
+.borda-dubla-4{
+    border-style: double;
+    border-width: 4px;
+    border-color: black;
+}
+.borda-dubla-5{
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
+}
+/*
+    Começando com as linhas pontilhadas.
+*/
+.borda-pontilhada-1{
+    border-style: dotted;
+    border-width: 1px;
+    border-color: black;
+}
+.borda-pontilhada-2{
+    border-style: dotted;
+    border-width: 2px;
+    border-color: black;
+}
+.borda-pontilhada-3{
+    border-style: dotted;
+    border-width: 3px;
+    border-color: black;
+}
+.borda-pontilhada-4{
+    border-style: dotted;
+    border-width: 4px;
+    border-color: black;
+}
+.borda-pontilhada-5{
+    border-style: dotted;
+    border-width: 5px;
+    border-color: black;
+}
+
 
 
 

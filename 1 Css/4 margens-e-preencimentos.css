@@ -1,0 +1,99 @@
+/*
+    4 margens-e-preencimentos.css é
+    um arquivo para quem precisar
+    utilizar margens e preencimentos
+    de maneira facil e rapida.
+
+    Agora vou começar a criar classes
+    de margens começando com as 
+    margens esquerda
+*/
+.margem-esquerda-10{
+    margin-left: 10px;
+}
+.margem-esquerda-20{
+    margin-left: 20px;
+}
+.margem-esquerda-30{
+    margin-left: 30px;
+}
+.margem-esquerda-40{
+    margin-left: 40px;
+}
+.margem-esquerda-50{
+    margin-left: 50px;
+}
+/*
+    Agora as margens direita
+*/
+.margem-direita-10{
+    margin-right: 10px;
+}
+.margem-direita-20{
+    margin-right: 20px;
+}
+.margem-direita-30{
+    margin-right: 30px;
+}
+.margem-direita-40{
+    margin-right: 40px;
+}
+.margem-direita-50{
+    margin-right: 50px;
+}
+/*
+    Agora as margens de cima
+*/
+.margem-cima-10{
+    margin-top: 10px;
+}
+.margem-cima-20{
+    margin-top: 20px;
+}
+.margem-cima-30{
+    margin-top: 30px;
+}
+.margem-cima-40{
+    margin-top: 40px;
+}
+.margem-cima-50{
+    margin-top: 50px;
+}
+/*
+    Agora as margens de baixo
+*/
+.margem-baixo-10{
+    margin-bottom: 10px;
+}
+.margem-baixo-20{
+    margin-bottom: 20px;
+}
+.margem-baixo-30{
+    margin-bottom: 30px;
+}
+.margem-baixo-40{
+    margin-bottom: 40px;
+}
+.margem-baixo-50{
+    margin-bottom: 50px;
+}
+/*
+    Criando classes de preencimentos.
+    Preencimentos são muito importantes
+    para um layout bonito.
+*/
+.preencimento-10{
+    padding: 10px;
+}
+.preencimento-20{
+    padding: 20px;
+}
+.preencimento-30{
+    padding: 30px;
+}
+.preencimento-40{
+    padding: 40px;
+}
+.preencimento-50{
+    padding: 50px;
+}

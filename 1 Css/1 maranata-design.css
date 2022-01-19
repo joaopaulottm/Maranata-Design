@@ -1,0 +1,49 @@
+/*
+    Este Arquivo é o arquivo principal do
+    Framework Maranata Design
+
+    Configurando a cor de fundo padrão
+*/
+body{
+    background-color: #ddd;
+    /*
+    background-image: url("folhas.jpg");
+    */
+}
+
+/*
+    Configurando os titulos.
+    Os titulos do framework Maranata Design
+    são mais grandes do que o normal para 
+    facilitar a leitura.
+*/
+h1, h2, h3, h4, h5, h6{
+    border-bottom: 3px solid #555;
+    max-width: 90%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 55px;
+}
+h2{
+    font-size: 50px;  
+}
+h3{
+    font-size: 45px;
+}
+h4{
+    font-size: 40px;
+}
+h5{
+    font-size: 35px;
+}
+h6{
+    font-size: 30px;
+}
+/*
+    Configurando os paragrafos.
+*/
+p{
+    font-size: 25px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

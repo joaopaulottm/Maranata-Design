@@ -1,3 +1,13 @@
+/*
+    02 Cores.css é as cores 
+    principais para toda pagina 
+    que quiser as cores de
+    maneira facil e pretica.
+
+    Classes responsaveis por as cores de fundo.
+    começando com o preto e o branco e suas variações.
+*/
+
 .fundo-preto{
     background-color: black;
 }

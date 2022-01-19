@@ -1,0 +1,144 @@
+.fundo-preto{
+    background-color: black;
+}
+.fundo-marron{
+    background-color: #733;
+}
+.fundo-grafite{
+    background-color: #555;
+}
+/*
+    3 cores adicionadas
+    Branco e suas variações
+*/
+.fundo-branco{
+    background-color: #fff;
+}
+.fundo-cinza{
+    background-color: #ccc;
+}
+.fundo-cinza-escuro{
+    background-color: #aaa;
+}
+/*
+    6 cores adicionadas
+    Cores Primarias e suas variações
+    Começando com o vermelho
+*/
+.fundo-vermelho{
+    background-color: red;
+}
+.fundo-rosa{
+    background-color: #faa;
+}
+.fundo-rosa-forte{
+    background-color: #c88;
+}
+/*
+    9 cores adicionadas
+    Amarelo e suas variações
+*/
+.fundo-amarelo{
+    background-color: yellow;
+}
+.fundo-amarelo-forte{
+    background-color: #cc0;
+}
+.fundo-amarelo-fraco{
+    background-color: lightyellow;
+}
+/*
+    12 cores adicionadas
+    Azul e suas variações
+*/
+.fundo-azul{
+    background-color: blue;
+}
+.fundo-azul-forte{
+    background-color: darkblue;
+}
+.fundo-azul-fraco{
+    background-color: lightblue;
+}
+/*
+    15 cores adicionadas.
+    Cores segundarias
+    começando com o verde.
+*/
+.fundo-verde{
+    background-color: green;
+}
+.fundo-verde-forte{
+    background-color: darkgreen;
+}
+.fundo-verde-fraco{
+    background-color: lightgreen;
+}
+/*
+    18 cores adicionadas.
+    laranja e suas variações.
+*/
+.fundo-laranja{
+    background-color: orange;
+}
+.fundo-laranja-forte{
+    background-color: darkorange;
+}
+.fundo-laranja-fraco{
+    background-color: lightsalmon;
+}
+/*
+    21 cores adicionadas.
+    roxo e rosa.
+*/
+.fundo-roxo{
+    background-color: purple;
+}
+.fundo-roxo-forte{
+    background-color: lightpink;
+}
+/*
+    23 cores adicionadas
+    Agora vamos começar as cores de  textos
+    Os textos não precisar ter variações.
+
+*/
+.texto-preto{
+    color: black;
+}
+.texto-grafite{
+    color: #555;
+}
+.texto-branco{
+    color: white;
+}
+.texto-cinza{
+    color: gray;
+}
+/*
+    Cores Primarias
+*/
+.texto-vermelho{
+    color: red;
+}
+.texto-azul{
+    color: blue;
+}
+.texto-amarelo{
+    color: yellow;
+}
+/*
+    Cores segundarias
+*/
+.texto-verde{
+    color: green;
+}
+.texto-roxo{
+    color: purple;
+}
+.texto-laranja{
+    color: orange;
+}
+.texto-rosa{
+    color:hotpink;
+}

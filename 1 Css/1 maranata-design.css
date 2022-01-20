@@ -6,6 +6,7 @@
 */
 body{
     background-color: #ddd;
+    font-size: 100%;
     /*
     background-image: url("folhas.jpg");
     */
@@ -23,22 +24,22 @@ h1, h2, h3, h4, h5, h6{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1{
-    font-size: 55px;
+    font-size: 3.4em;
 }
 h2{
-    font-size: 50px;  
+    font-size: 3.1em;  
 }
 h3{
-    font-size: 45px;
+    font-size: 2.8em;
 }
 h4{
-    font-size: 40px;
+    font-size: 2.5em;
 }
 h5{
-    font-size: 35px;
+    font-size: 2.2em;
 }
 h6{
-    font-size: 30px;
+    font-size: 1.9em;
 }
 /*
     Configurando os paragrafos.
@@ -46,7 +47,7 @@ h6{
     E também configurando as tags de texto
 */
 p, pre, b, strong, i, em, sub, sup, mark, del, ins{
-    font-size: 20px; 
+    font-size: 1.6em; 
 }
 mark{
     background-color: green;
@@ -55,22 +56,26 @@ mark{
     Começando com as tags de citações.
 */
 blockquote{
-    font-size: 20px;
+    font-size: 1.6em;
     border-left: 10px solid green;
     padding: 10px;
     background-color: white;
 }
 /*
-    Tag de abreviação
+    Tag de abreviação (abbr) e a
+    tag de citação (cite)
+    e a tag de direção do texto, (bdo)
+    texto invertido. Exemplo: alob -> bola
+    E a tag q que é de citação em aspas duplas.
 */
-abbr{
-    font-size: 20px;
+abbr, cite, bdo, q{
+    font-size: 1.6em;
 }
 /*
     Editando a tag de Endereços
 */
 address{
-    font-size: 20px;
+    font-size: 1.6em;
     border-left: 10px solid red;
     padding: 10px;
     background-color: white;

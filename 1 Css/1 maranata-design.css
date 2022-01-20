@@ -51,4 +51,33 @@ p, pre, b, strong, i, em, sub, sup, mark, del, ins{
 mark{
     background-color: green;
 }
-
+/*
+    Começando com as tags de citações.
+*/
+blockquote{
+    font-size: 20px;
+    border-left: 10px solid green;
+    padding: 10px;
+    background-color: white;
+}
+/*
+    Tag de abreviação
+*/
+abbr{
+    font-size: 20px;
+}
+/*
+    Editando a tag de Endereços
+*/
+address{
+    font-size: 20px;
+    border-left: 10px solid red;
+    padding: 10px;
+    background-color: white;
+}
+/*
+    Div de conteudo padrão
+*/
+div{
+    width: 80%;
+}

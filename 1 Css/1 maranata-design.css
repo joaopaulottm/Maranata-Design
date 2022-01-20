@@ -42,8 +42,13 @@ h6{
 }
 /*
     Configurando os paragrafos.
+    e os paragrafos dos poemas: tag pre.
+    E também configurando as tags de texto
 */
-p{
-    font-size: 25px; 
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+p, pre, b, strong, i, em, sub, sup, mark, del, ins{
+    font-size: 20px; 
 }
+mark{
+    background-color: green;
+}
+

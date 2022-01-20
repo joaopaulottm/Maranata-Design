@@ -20,16 +20,16 @@ seu site ou sistema fica mais rapido de carregar.
 
 ### 1 Modulo: Modulo Inicial
 
--1 Aula Apresentando o Framework
--1 Aula Baixando o Visual Code Studio
--1 Aula Baixando o Git
--1 Aula Conhecendo o GitHub
--1 Aula Se cadastrando no GitHub
--1 Aula Dando um fork no Framework e clonando
+- 1 Aula Apresentando o Framework
+- 1 Aula Baixando o Visual Code Studio
+- 1 Aula Baixando o Git
+- 1 Aula Conhecendo o GitHub
+- 1 Aula Se cadastrando no GitHub
+- 1 Aula Dando um fork no Framework e clonando
 
 ### 2 Modulo: Conhecendo o Framework
 
--1 Aula Titulos e Paragrafos
+- 1 Aula Titulos e Paragrafos
 
 
 Salve Maria Santissima!
